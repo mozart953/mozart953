@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate coder with a love for improve and
 
 - Languages: [Java, Python, Csharp, Bash, Visual Basic, PHP,javascript and typescript]
 - Frameworks: [Angular, Spring Boot, .Net Framework, NextJS and NestJS]
-- Tools:[Docker, Prisma ORM, PostgreSQL, MYSQL, SQL Server]
+- Tools:[Docker, Prisma ORM, PostgreSQL, MYSQL, SQL Server, React JS]
 
 ## 📈 GitHub Stats
 
