@@ -1,4 +1,4 @@
-# Hello, I'm Wilson 👋
+# Hey, I'm Wilson 👋
 
 Welcome to my GitHub profile! I'm a passionate coder with a love for improve and automate systems. I enjoy working on projects that challenge me and allow me to learn new things.
 
