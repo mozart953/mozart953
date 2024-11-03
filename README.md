@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate coder with a love for improve and
 
 ## 🔧 Technologies & Tools
 
-- Languages: [Java, Python, Csharp, Bash, Visual Basic, PHP,javascript and typescript]
+- Languages: [Java, Python, Csharp, Bash, Visual Basic, PHP, C++,javascript and typescript]
 - Frameworks: [Angular, Spring Boot, .Net Framework, NextJS and NestJS]
 - Tools:[Docker, Prisma ORM, PostgreSQL, MYSQL, SQL Server, React JS]
 
